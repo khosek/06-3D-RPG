@@ -54,3 +54,5 @@ func get_input():
 		input_dir += Camera.global_transform.basis.x
 	input_dir = input_dir.normalized()
 	return input_dir
+
+
