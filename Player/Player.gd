@@ -55,4 +55,6 @@ func get_input():
 	input_dir = input_dir.normalized()
 	return input_dir
 
-
+func damage():
+	get_node("/root/Game/UI").add_damage(.5)
+	Global.update_score(-5)
