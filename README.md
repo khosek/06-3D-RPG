@@ -1,13 +1,22 @@
-# 3D-Character
+# 06-3D-RPG
 
-An animated 3D character that can be used in the 3D-RPG project
+Due December 8, 2022
 
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+A 3D target-shooting game
 
 ## Implementation
 
-Created in Blender 3.1.2 and Godot 3.5
+N/A
+
+## References
+
+All 3D assets from Kenney.nl
+Materials for the drone from cc0textures.com
+
+## Future Development
+
+N/A
 
 ## Created By
 
-Jason Francis
+Kevin Hosek
