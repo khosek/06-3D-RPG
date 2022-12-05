@@ -12,6 +12,12 @@ func _ready():
 	angle = randf() * 2 * PI
 	new_position(angle)
 
+func _physics_process(_delta):
+	if get_node("/root/Game/Target_Container").get_child_count() == 0:
+		$Sprite3D.show()
+	else:
+		$Sprite3D.hide()
+
 func new_position(a):
 	var pos = Vector3(0, height, 0)
 	pos.x = radius * cos(a)
