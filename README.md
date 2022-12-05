@@ -10,8 +10,8 @@ N/A
 
 ## References
 
-All 3D assets from Kenney.nl
-Materials for the drone from cc0textures.com
+- All 3D assets from Kenney.nl
+- Materials for the drone from cc0textures.com
 
 ## Future Development
 
